@@ -1,0 +1,16 @@
+body
+{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    flex-direction: column;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+canvas
+{
+    border-radius: 20px;
+}
